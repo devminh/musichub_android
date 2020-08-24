@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#010101"
+
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/songname"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="30dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/singername"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:textSize="25dp"
+
+        />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stream now !"
+        android:layout_marginTop="20dp"
+        android:id="@+id/streamnow_btn"
+        android:onClick="goToStream"
+        android:layout_gravity="center"
+        />
+
+
+</LinearLayout>
