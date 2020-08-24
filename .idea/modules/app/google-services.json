@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "5102288412",
+    "firebase_url": "https://musichub-638c4.firebaseio.com",
+    "project_id": "musichub-638c4",
+    "storage_bucket": "musichub-638c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5102288412:android:e4b99b2daa4bb6f7f5a9d9",
+        "android_client_info": {
+          "package_name": "com.example.androidfinalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5102288412-pubqa1unormpia65rtcvh7qtinjlvghm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidfinalproject",
+            "certificate_hash": "b4a9a96175f9f5b2ae6d8a5437720e52144301a6"
+          }
+        },
+        {
+          "client_id": "5102288412-ho9os40sekepmsomo0g75d9aqgq7id0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqg1dulTzvVvt3QWkoxDy8GWYmxDd9a40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5102288412-ho9os40sekepmsomo0g75d9aqgq7id0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
